@@ -1,6 +1,7 @@
 package pl.management.project.project_management;
 
 import lombok.Data;
+import pl.management.project.project_management.model.User;
 
 import javax.persistence.*;
 
